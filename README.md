@@ -1,4 +1,4 @@
-# WebSnake | 🔥[Play](https://zalexanninev15.github.io/WebSnake/)
+# WebSnake / [Play 🕹️](https://zalexanninev15.github.io/WebSnake/)
 
 [![](https://img.shields.io/badge/platforms-All_with_Internet-27282D.svg)](https://github.com/Zalexanninev15/WebSnake)
 [![](https://img.shields.io/badge/written_on-HTML-E34F26.svg?logo=html5)](https://github.com/Zalexanninev15/WebSnake)
@@ -12,4 +12,5 @@
 ![alt](https://github.com/Zalexanninev15/WebSnake/blob/main/demo.gif)
 
 ## Description
-Snake on web tech 🕹️
+
+Snake on web tech
